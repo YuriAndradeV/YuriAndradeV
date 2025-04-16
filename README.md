@@ -109,3 +109,5 @@ Me chamo Yuri de Andrade, tenho 17 anos e sou natural do Rio de Janeiro. Estou n
   />
 
 </p>
+
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
